@@ -1,12 +1,18 @@
-P {
+.p{
     background-color: blue;
     text-align: center;
     color: white;
 
 }
 
-h1 {
+.h1 {
     text-align: center;
     background-color: aquamarine;
     color: black;
+}
+
+#sample-id-selector{
+   background-color: red;
+   text-align: center;
+   font-size: larger; 
 }
